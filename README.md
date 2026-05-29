@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charish Bhimarasetty</h1>
 <h3 align="center">I am pursuing my Post Graduate program in Data Analytics and Machine Learning from Imarticus Learning. I have done Master in Economics and Bachelor of Business administration from GITAM University. My primary Career Objective is to get enrolled in research and development for the welfare of society. Some of my skills and achievements include the following: >Intuitive in problem-solving. >Accomplished various projects on machine learning and development like house Mortgage Analysis, Stock data analysis and many more. About Myself: Dedicated to the advancement of research and development projects. Dedication, Focus, Versatility, Integrity, Flexibility, Taking Initiative, and Self Control is some of my qualities. I'd like to learn more about new technology, and machine learning.</h3>
 
-- 🔭 I’m currently working on [BigSalesMart](http://localhost:8888/notebooks/Data%20Preprocessing.ipynb)
-
-- 📄 Know about my experiences **https://docs.google.com/document/d/1s1XRXuYmzmPHh0NWAu9Sm1XgS2LKB4X2/edit?usp=sharing&ouid=106740261284335779467&rtpof=true&sd=true**
-
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 📫 How to reach me **cherishbhimarasetty03@gmail.com**
